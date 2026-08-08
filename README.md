@@ -4,7 +4,7 @@ A responsive business landing page recreated from a Figma design using HTML, CSS
 
 ## 🌐 Live Demo
 
-[[View Live Website](YOUR_GITHUB_PAGES_URL)](https://mit2001.github.io/brainwave-landing-page/)
+https://mit2001.github.io/brainwave-landing-page/
 
 ## 📸 Project Preview
 
