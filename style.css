@@ -1,0 +1,477 @@
+.company-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.4;
+  color: #161c2d;
+}
+.back-color {
+  background-color: rgba(226, 225, 225, 0.118);
+}
+.hero-subtitle {
+  color: red;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.hero-title {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+.hero-text {
+  color: #6c757d;
+  max-width: 520px;
+  line-height: 1.8;
+}
+.hero-image {
+  border-radius: 50%;
+  margin-left: auto;
+  display: block;
+}
+.service-subtitle {
+  color: red;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.service-text {
+  font-weight: 700;
+  text-align: center;
+  line-height: normal;
+  font-size: 48px;
+}
+
+.service-card {
+  min-height: 560px;
+}
+.service-green {
+  background: #68d391;
+}
+
+.service-purple {
+  background: #4f46e5;
+}
+
+.service-red {
+  background: #ff5a5f;
+}
+.service-card .card-title {
+  color: white;
+}
+
+.service-card .card-text {
+  color: white;
+}
+
+.service-card a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+.card-img-top {
+  width: 45%;
+  margin: 30px auto;
+}
+.card-body {
+  text-align: center;
+  display: flex;
+
+  flex-direction: column;
+
+  height: 100%;
+}
+.service-card {
+  padding: 30px;
+  display: flex;
+  border-radius: 15px;
+  flex-direction: column;
+}
+.service-title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 70px;
+}
+.card-title {
+  font-size: 32px;
+
+  font-weight: 700;
+
+  margin-bottom: 25px;
+}
+.card-text {
+  max-width: 280px;
+
+  margin: auto;
+}
+.learn-more {
+  margin-top: auto;
+}
+.service-img-1 {
+  width: 180px;
+}
+
+.service-img-2 {
+  width: 220px;
+}
+
+.service-img-3 {
+  width: 170px;
+}
+.review-text {
+  font-weight: 700;
+  font-size: 24px;
+}
+.avtar-name {
+  font-weight: 700;
+  line-height: 0.8;
+
+  max-width: 240px;
+}
+.avtar-role {
+  font-weight: lighter;
+  line-height: 0.8;
+  max-width: 240px;
+}
+.review-avtar {
+  border-radius: 50%;
+  width: 164px;
+  height: 164px;
+  object-fit: cover;
+}
+.rating {
+  color: #fcad38;
+}
+.about-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+}
+.review-break {
+  max-width: 1108px;
+  height: 1px;
+  border: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 5rem;
+}
+.about-img-1 {
+  max-width: 445px;
+  margin-top: 5rem;
+}
+.about-img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.combine-img {
+  margin-top: 10rem;
+}
+.about-img-2-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.about-img-2 {
+  max-width: 318px;
+}
+.about-img-3-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.about-img-3 {
+  max-width: 160px;
+}
+.about-para-1 {
+  max-width: 490px;
+  font-weight: lighter;
+  font-size: 17px;
+  line-height: 29px;
+  margin-top: 8rem;
+}
+.fact-heading {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  margin-top: 3rem;
+}
+.fact-para {
+  font-weight: 400;
+  font-weight: lighter;
+  font-size: 19px;
+  line-height: 32px;
+  margin-top: 1rem;
+}
+.feature-subtitle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  margin-top: 1rem;
+}
+.feature-spacing {
+  margin-top: 10rem;
+}
+.feature-h1 {
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+}
+.feature-p1 {
+  font-weight: lighter;
+}
+@media (max-width: 768px) {
+  .feature-p1 {
+    max-width: 100%;
+
+    font-size: 17px;
+    line-height: 29px;
+  }
+}
+.feature {
+  padding: 5rem;
+}
+.feature-break {
+  max-width: 1111px;
+  height: 1px;
+  border: 1px;
+}
+.feature-2-h1 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+.feature-2-para {
+  font-weight: lighter;
+  font-size: 19px;
+  line-height: 32px;
+  max-width: 590px;
+}
+.feature-button {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 32px;
+}
+.feature-2-spacing {
+  margin-top: 5rem;
+}
+.case-title-spacing {
+  margin-top: 10rem;
+}
+.case-subtitle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  margin-top: 1rem;
+}
+
+.case-studies-sub {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+}
+.case-studies-heading {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 34px;
+}
+.see-all-work {
+  color: blue;
+  text-decoration: none;
+}
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("Images/Testimonial-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 1600px;
+  min-height: 635px;
+
+  text-align: center;
+}
+.testimonial-subtitle {
+  color: #68d585;
+  font-size: 13px;
+  letter-spacing: 1.63px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.test-para {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #ffffff;
+  margin-top: 3rem;
+}
+.test-img {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 3rem;
+}
+.test-name {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 29px;
+  color: #ffffff;
+  margin-top: 2rem;
+}
+.test-role {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+  color: #ffffff;
+}
+@media (max-width: 768px) {
+  .test-para {
+    font-size: 26px;
+
+    line-height: 38px;
+  }
+}
+.font-color {
+  color: #ffffff;
+}
+
+.back {
+  background-image: url("./Images/BG.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* CTA section */
+
+.footer-2-spacing {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+}
+
+.footer-2-h1 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  margin-bottom: 1.5rem;
+}
+
+.footer-2-para {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 32px;
+  max-width: 590px;
+  color: #a7a9b5;
+}
+
+.footer-button {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 32px;
+  padding: 12px 32px;
+}
+
+/* CTA left spacing */
+
+.left-spacing {
+  padding-left: 4rem;
+}
+
+/* Horizontal line */
+
+.footer-line {
+  max-width: 1108px;
+  border: 0;
+  border-top: 1px solid #2b3040;
+  opacity: 1;
+  margin: 0 auto;
+}
+
+/* Main footer */
+
+.back .container.p-5 {
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
+}
+
+/* Brainwave */
+
+.back h2 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36px;
+  margin-bottom: 2rem;
+}
+
+.footer-description {
+  color: #a7a9b5;
+  font-size: 15px;
+  line-height: 26px;
+  margin-bottom: 2.5rem;
+}
+
+/* Footer headings */
+
+.back h6 {
+  color: #8f92a1;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 2rem;
+}
+
+/* Footer links */
+
+.back a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+/* Social icons */
+
+.back .bi {
+  color: #858998;
+  font-size: 18px;
+}
+
+.back .bi:first-child {
+  color: #68d585;
+}
+/* Services */
+.services {
+  background-color: #f8f9fc;
+}
+
+/* Review */
+.review {
+  background-color: #ffffff;
+}
+
+/* Our Story */
+.about {
+  background-color: #f8f9fc;
+}
+
+/* Facts */
+.facts {
+  background-color: #ffffff;
+}
+
+/* Why Choose Us */
+.features {
+  background-color: #f4f7fb;
+}
+
+/* Case Studies */
+.case-studies {
+  background-color: #ffffff;
+}
